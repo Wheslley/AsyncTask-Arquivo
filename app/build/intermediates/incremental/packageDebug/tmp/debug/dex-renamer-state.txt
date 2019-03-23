@@ -1,0 +1,4 @@
+#Fri Mar 22 21:45:11 BRT 2019
+base.0=D\:\\Estudos\\android_workspace\\AsyncTaskWsKt\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
